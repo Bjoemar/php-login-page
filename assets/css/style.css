@@ -1,0 +1,41 @@
+/*h1 {
+	font-size: 150px;
+	text-align: center;
+	margin: auto;
+	padding-top: 300px;
+}*/
+
+h2 {
+	text-align: center;
+}
+
+button {
+	
+	height: 30px;
+	width: 200px;
+		background: white;
+		border: 1px solid skyblue;
+
+}
+button:hover {
+	background: skyblue;
+	transform: scale(1.2,1.2);
+}
+
+#btns {
+	width: 100%;
+	text-align:center;
+	margin-top: 50px;
+
+}
+
+#welcometext {
+	font-size: 100px;
+	text-align: center;
+	margin: auto;
+	padding-top: 300px;
+}
+
+h1 {
+	font-size: 50px;
+}
